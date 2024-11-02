@@ -35,6 +35,9 @@ Output: true
 Explanation: The words in sentence are ["eetcode"].
 - eetcode's last character is equal to eetcode's first character.
 The sentence is circular.
+
+
+
 Example 3:
 
 Input: sentence = "Leetcode is cool"
