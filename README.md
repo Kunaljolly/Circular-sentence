@@ -25,7 +25,9 @@ Explanation: The words in sentence are ["leetcode", "exercises", "sound", "delig
 - exercises's last character is equal to sound's first character.
 - sound's last character is equal to delightful's first character.
 - delightful's last character is equal to leetcode's first character.
-The sentence is circular.
+- The sentence is circular.
+
+
 Example 2:
 
 Input: sentence = "eetcode"
